@@ -1,4 +1,7 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="LNW4mz$b}z0BVpz7gH:7" x="225" y="20"><statement name="HANDLER"><block type="controls_if" id="nb1y?nf=UH#t?6nORu*)"><value name="IF0"><shadow type="logic_boolean" id="Dqi^=k]4qyskn#f4W}w$"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="XzzYBA)O}cY]|0#KE^T0"><field name="OP">GT</field><value name="A"><shadow type="math_number" id="g.l}UEYwm+piP(vuEj5."><field name="NUM">0</field></shadow><block type="device_temperature" id="mq}HOqH|h/S9ZR5jyLuN"></block></value><value name="B"><shadow type="math_number" id="dSAVg4Plb-c70s[8hn5D"><field name="NUM">30</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="/G,w.}8w/2$b4m+yo%uJ"><field name="LEDS">`
+        # . # . # 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        # . # . #
+        `</field></block></statement></block></statement></block><block type="controls_if" id="2j?`5=p@.MnT^:~4@uZ}" disabled="true" x="-74" y="166"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="ekcg7x,~J!FhptPB$NE`" disabled="true"><field name="BOOL">TRUE</field></shadow></value></block></xml>
